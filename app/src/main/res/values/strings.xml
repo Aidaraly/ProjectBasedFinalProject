@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Трекер тренировок</string>
+    <string name="main">Главный экран</string>
+    <string name="favourite">Избранное</string>
+    <string name="training">Тренировки</string>
+    <string name="about_app">О приложении</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="for_all">Для всех</string>
+    <string name="for_man">Для мужчин</string>
+    <string name="for_woman">Для женщин</string>
+    <string name="news">Новости</string>
+    <string name="recommended">Рекомендуемые</string>
+    <string name="navigate_back">Назад</string>
+    <string name="about_app_description">
+        Приложение придумано и разработано студентом международного университета Ала-Тоо Анарбаев Айдаралы.
+        \n\nЦель данного приложения это предоставить возможность пользователю создать для себя индивидуальный план тренировок, который поможет идти к своей цели и добиваться результатов.
+        \n\nДополнительно также есть новости и статьи о спорте и правильном питании.
+        \n\nСтатьи и уроки взяты по этим ссылкам: https://goodlooker.ru/ и https://growfood.pro/
+    </string>
+    <string name="training_time">%s сек.</string>
+    <string name="add_in_favourite">Добавить в избранное</string>
+    <string name="search">Поиск</string>
+</resources>
