@@ -32,41 +32,39 @@ In this project I used following:
 
 <h3 align="center"><strong>Main Activity</strong></h3>
 <p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/MainActivity.png?raw=true" alt="Preview"/>
+  <img width="485" alt="Screen Shot 2022-06-02 at 14 35 17" src="https://user-images.githubusercontent.com/44225090/171596498-586e25e5-649f-496a-81c1-c1c256f18e9c.png">
+
 </p>
 
 <h3 align="center"><strong>Training Detail Fragment</strong></h3>
 <p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/TrainingDetailFragment.png?raw=true" alt="Preview"/>
-</p>
+  <img width="486" alt="Screen Shot 2022-06-02 at 14 38 37" src="https://user-images.githubusercontent.com/44225090/171596793-33216257-9d62-4b64-9403-3984b8efca9b.png">
 <p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/TrainingDetailFragment2.png?raw=true" alt="Preview"/>
+  
 </p>
 
 <h3 align="center"><strong>News Detail Fragment</strong></h3>
 <p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/NewsDetailFragment.png?raw=true" alt="Preview"/>
+  <img width="475" alt="Screen Shot 2022-06-02 at 14 40 18" src="https://user-images.githubusercontent.com/44225090/171597010-2969f205-13b4-4fa8-8bf6-f64b5cc6466c.png">
+
 </p>
 
 <h3 align="center"><strong>Training Fragment</strong></h3>
 <p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/TrainingFragment.png?raw=true" alt="Preview"/>
+ <img width="485" alt="Screen Shot 2022-06-02 at 14 42 54" src="https://user-images.githubusercontent.com/44225090/171597118-e8e2693a-8219-4c84-a3c2-16814934124d.png">
+
 </p>
 
 <h3 align="center"><strong>Training Set Fragment</strong></h3>
 <p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/TrainingSetFragment.png?raw=true" alt="Preview"/>
+ <img width="482" alt="Screen Shot 2022-06-02 at 14 44 46" src="https://user-images.githubusercontent.com/44225090/171597235-6ab53ca4-9ae3-4ef9-9e0d-728f44d3fbc6.png">
 </p>
 
 <h3 align="center"><strong>Favourite Fragment</strong></h3>
 <p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/FavouriteFragment.png?raw=true" alt="Preview"/>
-</p>
+  <img width="487" alt="Screen Shot 2022-06-02 at 14 46 13" src="https://user-images.githubusercontent.com/44225090/171597317-84dd8808-f505-41e9-8630-47cdb83a212e.png">
 
-<h3 align="center"><strong>About App Fragment</strong></h3>
-<p align="center">
-  <img width="350" height="650"  src="https://github.com/zaiyr-sh/gym-tracker/blob/main/img/AboutAppFragment.png?raw=true" alt="Preview"/>
-</p>
+
 
 # Purpose
 
