@@ -3,7 +3,7 @@ At any time, sport is the most important thing for maintaining health. But not e
 
 * Articles and lessons are taken from these links: [https://goodlooker.ru/](https://goodlooker.ru/) & [https://growfood.pro/blog](https://growfood.pro/blog)
 
-* Click [here](https://www.canva.com/design/DAE0dOY80_4/6tGkDQr-9DFrSPR3wp6KEg/view?utm_content=DAE0dOY80_4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) to watch the presentation
+* Click [here](https://www.canva.com/design/DAFCcEz99M0/N8K24v5O3a3cLO8YxTHH2Q/view?utm_content=DAFCcEz99M0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) to watch the presentation
 
 # Project requirements:
 * Description of the project (relevance, problem, solution of a practical problem) ✅
@@ -70,4 +70,4 @@ In this project I used following:
 
 # Purpose
 
-This is an International Ala-Too University project marking the studying Software Architecture & Design Patterns. It's purpose is to build a user friendly application that uses architecture patterns.
+This is an International Ala-Too University project marking the studying Project based Internships. It's purpose is to build a user friendly application that uses architecture patterns.
